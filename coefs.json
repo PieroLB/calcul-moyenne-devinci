@@ -1,5 +1,13 @@
 {
   "modules": {
+    "Comprendre la bourse et la finance":1.0,
+    "Marketing fondamental":1.0,
+    "Espagnol":1.0,
+    "Comptabilité Financière 1":1.0,
+    "La vente et la démarche commerciale":1.0,
+    "Espagnol":1.0,
+
+    
     "Algorithmique et programmation orientée objet":3.0,
     "Complexité":3.0,
     "Analyse à plusieurs variables":4.0,
@@ -15,7 +23,7 @@
     "English for Academic Purposes 1":1.0,
     "Répondre aux attentes du recruteur":1.0,
     "Le Design Thinking au service de la créativité":1.0,
-    "Sport":1.0,
+    "Sport":1.0,    
     "Mécanique des fluides et thermodynamique":1.0,
     "Electromagnétisme":1.0,
     "Techniques expérimentales":1.0,
@@ -26,9 +34,30 @@
     "Modélisation de données":0.5,
     "Algorithmique et graphes":0.3333333333,
     "Problème scientifique informatique":0.1666666666,
-    "English for Academic Purposes 2":1.0
+    "English for Academic Purposes 2":1.0,
+    
+    "Contrôle de gestion":2.0,
+    "Stratégie Marketing":2.0,
+    "Espagnol":2.0,
+    "Global economy":2.0,
+    "Mission solidaire":2.0,
+    "Corporate Strategy":2.0,
+    "Espagnol":2.0,
   },
   "epreuves":{
+    "Contrôle continu - Comprendre la bourse et la finance":50.0,
+    "Examen - Comprendre la bourse et la finance":50.0,
+    "Contrôle continu - Marketing fondamental":50.0,
+    "Quizz 1 - Marketing fondamental":0.0,
+    "Quizz 2 - Marketing fondamental":0.0,
+    "Quizz 3 - Marketing fondamental":0.0,
+    "Quizz 4 - Marketing fondamental":0.0,
+    "Dossier - Marketing fondamental":0.0,
+    "Contrôle continu - Comptabilité Financière 1":30.0,
+    "Examen - Comptabilité Financière 1":70.0,
+    "Contrôle continu - La vente et la démarche commerciale":60.0,
+    "Examen - La vente et la démarche commerciale":40.0,
+    
     "DST du 10 février - Probabilités":25.0,
     "DST 6 du 13 avril - Probabilités":25.0,
     "Examen - Probabilités":50.0,
@@ -54,6 +83,6 @@
     "Examen - Mécanique des fluides et thermodynamique":50.0,
     "DST 5 - 9 mars -  Electromagnétisme":30.0,
     "Examen -  Electromagnétisme":70.0,
-    "Examen - Techniques expérimentales":100.0
+    "Examen - Techniques expérimentales":100.0,
   }
 }
