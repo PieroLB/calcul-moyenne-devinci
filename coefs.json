@@ -3,5 +3,7 @@
     "Complexité":1.5,
     "Calcul Intégral":2.0
   },
-  "epreuves":{}
+  "epreuves":{
+    "Examen - Algorithmique et graphes":25.0
+  }
 }
