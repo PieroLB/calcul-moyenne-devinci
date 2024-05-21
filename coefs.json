@@ -1,7 +1,22 @@
 {
   "modules": {
-    "Complexité":1.5,
-    "Calcul Intégral":2.0
+    "Algorithmique et programmation orientée objet":3.0,
+    "Complexité":3.0,
+    "Analyse à plusieurs variables":4.0,
+    "Réduction d'endomorphismes":2.0,
+    "Séries":3.0,
+    "Moyenne de colle":1.0,
+    "Automatismes et asservissements":2.0,
+    "Transferts thermiques":2.0,
+    "Résistance des matériaux":3.0,
+    "Projet PIX 2":2.0,
+    "Les relations humaines dans la coopération d'équipe":1.0,
+    "Green IT":1.0,
+    "English for Academic Purposes 1":1.0,
+    "Répondre aux attentes du recruteur":1.0,
+    "Le Design Thinking au service de la créativité":1.0,
+    "Sport":1.0,
+    "English for Academic Purposes 2":1.0
   },
   "epreuves":{
     "Examen - Algorithmique et graphes":15.0
